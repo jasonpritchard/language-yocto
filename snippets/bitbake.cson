@@ -1,0 +1,7 @@
+'.source.bitbake':
+  'Install append':
+    'prefix': 'do_install_append'
+    'body': 'do_install_append(){\n${1}\n}\n'
+  'Configure append':
+    'prefix': 'do_configure_append'
+    'body': 'do_configure_append(){\n${1}\n}\n'

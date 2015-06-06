@@ -1,0 +1,15 @@
+'name': 'Bitbake files'
+'scopeName': 'source.bitbake'
+
+'fileTypes': [
+  'bb'
+  'bbclass'
+  'bbappend'
+  'conf'
+]
+
+'patterns': [
+  {
+      'include': 'source.python'
+  }
+]

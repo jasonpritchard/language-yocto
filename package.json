@@ -1,0 +1,17 @@
+{
+  "name": "language-yocto",
+  "main": "./lib/language-yocto",
+  "version": "0.1.0",
+  "description": "Support for Yocto and OpenEmbedded files",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/jasonpritchard/language-yocto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
